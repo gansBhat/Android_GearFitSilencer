@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/mute_preferences">
+
+        <CheckBoxPreference
+            android:key="soundPrefVibrate"
+            android:title="Silence(Full Mute or Vibrate)"
+            android:defaultValue="true"
+            android:summaryOn="Vibrate set"
+            android:summary="Vibrate the phone?(No full mute)" />
+
+    </PreferenceCategory>
+</PreferenceScreen>
