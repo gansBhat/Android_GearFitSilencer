@@ -4,3 +4,5 @@ GearFit silence app for android. Helps to schedule and turn your phone to mute v
 Look for the app here.
 https://play.google.com/store/apps/details?id=ganzy.com.ashh
 
+Dependencies and code are part of this repo.
+
